@@ -1,2 +1,2 @@
-const os = require('os');
-console.log('The current hostname is:', os.hostname());
+import { hostname } from 'os';
+console.log('The current hostname is:', hostname());

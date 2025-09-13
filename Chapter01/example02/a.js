@@ -1,2 +1,2 @@
-const b = require('./b');
-console.log('The value of b is:', b.myValue);
+import { myValue } from './b';
+console.log('The value of b is:', myValue);
