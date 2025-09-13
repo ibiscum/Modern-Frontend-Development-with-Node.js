@@ -1,7 +1,9 @@
 // @flow
-function square(n: number): number {
+// function square(n: number): number {
+function square(n) {
   return n * n;
-}
+};
 
-square("2"); // Error!
+const result = square("2"); // Error!
+console.log(result);
   

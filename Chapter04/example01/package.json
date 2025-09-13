@@ -1,5 +1,5 @@
 {
-  "name": "example01",
+  "name": "ch04ex01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.18.5",
-    "@babel/node": "^7.18.5",
-    "@babel/preset-env": "^7.18.2"
+    "@babel/core": "^7.28.4",
+    "@babel/node": "^7.28.0",
+    "@babel/preset-env": "^7.28.3"
   },
   "dependencies": {}
 }

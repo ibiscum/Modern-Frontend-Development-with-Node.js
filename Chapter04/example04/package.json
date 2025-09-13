@@ -1,8 +1,8 @@
 {
-  "name": "Chapter04",
+  "name": "ch04ex04",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^4.7.4"
+    "typescript": "^5.9.2"
   }
 }
