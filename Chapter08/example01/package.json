@@ -10,6 +10,6 @@
     "build": "esbuild src/*.js --platform=node --outdir=lib --format=cjs"
   },
   "devDependencies": {
-    "esbuild": "^0.15.0"
+    "esbuild": "^0.25.0"
   }
 }

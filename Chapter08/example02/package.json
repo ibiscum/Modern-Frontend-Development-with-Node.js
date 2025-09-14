@@ -29,6 +29,6 @@
     "build": "npm run build-cjs && npm run build-esm"
   },
   "devDependencies": {
-    "esbuild": "^0.15.0"
+    "esbuild": "^0.25.0"
   }
 }
