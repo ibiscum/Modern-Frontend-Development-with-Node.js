@@ -3,6 +3,9 @@
 
 # Modern Frontend Development with Node.js
 
+[![CodeQL Advanced](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/codeql.yml/badge.svg)](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/codeql.yml)
+[![Dependabot Updates](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/dependabot/dependabot-updates)
+
 <a href="https://www.packtpub.com/product/modern-frontend-development-with-nodejs/9781804618295"><img src="https://static.packt-cdn.com/products/9781804618295/cover/smaller" alt="Modern Frontend Development with Node.js" height="256px" align="right"></a>
 
 This is the code repository for [Modern Frontend Development with Node.js](https://www.packtpub.com/product/modern-frontend-development-with-nodejs/9781804618295), published by Packt.
