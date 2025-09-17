@@ -1,5 +1,5 @@
 import * as React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Layout from "./Layout";
 
 const Home = React.lazy(() => import("./Home"));
