@@ -29,6 +29,9 @@
     "build": "npm run build-cjs && npm run build-esm"
   },
   "devDependencies": {
-    "esbuild": "^0.25.0"
+    "@eslint/js": "^9.35.0",
+    "esbuild": "^0.25.10",
+    "eslint": "^9.35.0",
+    "globals": "^16.4.0"
   }
 }
