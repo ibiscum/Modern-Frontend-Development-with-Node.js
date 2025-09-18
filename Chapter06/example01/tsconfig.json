@@ -4,6 +4,6 @@
     "module": "ESNext",
     "moduleResolution": "node"
   },
-  "include": ["./src"],
+  "include": ["./src", "webpack.config.js"],
   "exclude": ["./node_modules"]
 }

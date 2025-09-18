@@ -1,6 +1,6 @@
-const { serve } = require("esbuild");
-const { sassPlugin } = require("esbuild-sass-plugin");
-const { htmlPlugin } = require("@craftamap/esbuild-plugin-html");
+import { serve } from "esbuild";
+import { sassPlugin } from "esbuild-sass-plugin";
+import { htmlPlugin } from "@craftamap/esbuild-plugin-html";
 
 serve(
   {
