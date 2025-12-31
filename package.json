@@ -1,0 +1,29 @@
+{
+  "name": "modern-frontend-development-with-node",
+  "version": "1.0.0",
+  "description": "[![CodeQL Advanced](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/codeql.yml/badge.svg)](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/codeql.yml) [![Dependabot Updates](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/actions/workflows/dependabot/dependabot-updates)",
+  "scripts": {
+    "lint": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/ibiscum/Modern-Frontend-Development-with-Node.js#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^16.5.0"
+  },
+  "workspaces":[
+    "chapter01/*"
+  ]
+}
