@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "stylelint": "^14.9.1",
-    "stylelint-config-standard": "^26.0.0"
+    "stylelint": "^17.5.0",
+    "stylelint-config-standard": "^40.0.0"
   }
 }

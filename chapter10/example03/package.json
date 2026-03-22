@@ -12,7 +12,7 @@
   "author": "Florian Rappl",
   "license": "MIT",
   "devDependencies": {
-    "assemblyscript": "^0.21.6",
+    "assemblyscript": "^0.28.10",
     "http-server": "^14.1.1"
   },
   "type": "module",

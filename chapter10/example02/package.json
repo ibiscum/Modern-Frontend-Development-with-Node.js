@@ -7,6 +7,6 @@
   "author": "Florian Rappl",
   "license": "MIT",
   "devDependencies": {
-    "assemblyscript": "^0.21.6"
+    "assemblyscript": "^0.28.10"
   }
 }

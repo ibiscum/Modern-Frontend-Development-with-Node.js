@@ -15,7 +15,7 @@
   "author": "Florian Rappl",
   "license": "MIT",
   "devDependencies": {
-    "assemblyscript": "^0.20.18",
-    "as-wasi": "^0.4.6"
+    "as-wasi": "^0.6.0",
+    "assemblyscript": "^0.28.10"
   }
 }

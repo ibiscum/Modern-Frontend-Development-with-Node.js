@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.28.4",
-    "@babel/preset-env": "^7.28.3",
-    "@babel/register": "^7.28.3",
-    "@eslint/js": "^9.35.0",
-    "eslint": "^9.35.0",
-    "globals": "^16.4.0",
-    "mocha": "^11.7.2"
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "@babel/register": "^7.28.6",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0",
+    "mocha": "^11.7.5"
   }
 }

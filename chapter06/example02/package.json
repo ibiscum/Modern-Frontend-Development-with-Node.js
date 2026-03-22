@@ -11,18 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.1",
-    "video.js": "^8.23.4"
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "video.js": "^8.23.7"
   },
   "devDependencies": {
     "@craftamap/esbuild-plugin-html": "^0.9.0",
-    "@types/react": "^19.1.13",
-    "@types/react-dom": "^19.1.9",
-    "esbuild": "^0.25.9",
-    "esbuild-sass-plugin": "^3.3.1",
-    "sass": "^1.92.1",
-    "typescript": "^5.9.2"
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "esbuild": "^0.27.4",
+    "esbuild-sass-plugin": "^3.7.0",
+    "sass": "^1.98.0",
+    "typescript": "^5.9.3"
   }
 }
