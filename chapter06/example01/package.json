@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^19.2.4",
+    "react": "^19.2.5",
     "react-dom": "^19.2.4",
     "react-router-dom": "^7.13.1",
     "video.js": "^8.23.7"
