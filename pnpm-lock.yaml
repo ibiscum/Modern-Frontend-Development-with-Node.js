@@ -795,8 +795,8 @@ importers:
         specifier: 10.1.8
         version: 10.1.8(eslint@10.1.0)
       eslint-plugin-cypress:
-        specifier: ^6.2.1
-        version: 6.2.1(eslint@10.1.0)
+        specifier: ^6.4.1
+        version: 6.4.1(@typescript-eslint/parser@8.57.1(eslint@10.1.0)(typescript@5.9.3))(eslint@10.1.0)
       eslint-plugin-import:
         specifier: 2.32.0
         version: 2.32.0(@typescript-eslint/parser@8.57.1(eslint@10.1.0)(typescript@5.9.3))(eslint@10.1.0)
@@ -6207,10 +6207,14 @@ packages:
       eslint-import-resolver-webpack:
         optional: true
 
-  eslint-plugin-cypress@6.2.1:
-    resolution: {integrity: sha512-pbjvNE2GKG3hlerT3SIQcRnsMfzFnpAyg0V17D+Gm/a18cxBOVLUxWWANAs7LzykdTPn+SKgzczhF0+IODFs7w==}
+  eslint-plugin-cypress@6.4.1:
+    resolution: {integrity: sha512-8mnfR3q0Lr41Fu9SYZGeZ5nbSBgtS44+bbtSs7k0KvfoQ2pPmK43IvaTP6FGTfwBTN6S7w027CpqjrLAd65AYA==}
     peerDependencies:
+      '@typescript-eslint/parser': '>=8'
       eslint: '>=9'
+    peerDependenciesMeta:
+      '@typescript-eslint/parser':
+        optional: true
 
   eslint-plugin-import@2.32.0:
     resolution: {integrity: sha512-whOE1HFo/qJDyX4SnXzP4N6zOWn79WhnCUY/iDR0mPfQZO8wcYE4JClzI2oZrhBnnMUCBCHZhO6VQyoBU95mZA==}
@@ -6790,6 +6794,10 @@ packages:
 
   globals@17.4.0:
     resolution: {integrity: sha512-hjrNztw/VajQwOLsMNT1cbJiH2muO3OROCHnbehc8eY5JyD2gqz4AcMHPqgaOR59DjgUjYAYLeH699g/eWi2jw==}
+    engines: {node: '>=18'}
+
+  globals@17.6.0:
+    resolution: {integrity: sha512-sepffkT8stwnIYbsMBpoCHJuJM5l98FUF2AnE07hfvE0m/qp3R586hw4jF4uadbhvg1ooIdzuu7CsfD2jzCaNA==}
     engines: {node: '>=18'}
 
   globalthis@1.0.4:
@@ -17372,10 +17380,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-cypress@6.2.1(eslint@10.1.0):
+  eslint-plugin-cypress@6.4.1(@typescript-eslint/parser@8.57.1(eslint@10.1.0)(typescript@5.9.3))(eslint@10.1.0):
     dependencies:
       eslint: 10.1.0
-      globals: 17.4.0
+      globals: 17.6.0
+    optionalDependencies:
+      '@typescript-eslint/parser': 8.57.1(eslint@10.1.0)(typescript@5.9.3)
 
   eslint-plugin-import@2.32.0(@typescript-eslint/parser@5.62.0(eslint@10.1.0)(typescript@5.9.3))(eslint-import-resolver-typescript@2.7.1)(eslint@10.1.0):
     dependencies:
@@ -18187,6 +18197,8 @@ snapshots:
   globals@16.4.0: {}
 
   globals@17.4.0: {}
+
+  globals@17.6.0: {}
 
   globalthis@1.0.4:
     dependencies:
