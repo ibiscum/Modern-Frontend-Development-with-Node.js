@@ -33,8 +33,8 @@ importers:
   chapter03/example01:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
     devDependencies:
       '@eslint/js':
         specifier: ^10.0.1
@@ -55,8 +55,8 @@ importers:
   chapter03/example02:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
     devDependencies:
       '@types/node':
         specifier: ^25.5.0
@@ -68,8 +68,8 @@ importers:
   chapter03/example03:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
     devDependencies:
       '@types/node':
         specifier: ^25.5.0
@@ -177,14 +177,14 @@ importers:
   chapter06/base:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -208,14 +208,14 @@ importers:
   chapter06/example01:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -287,14 +287,14 @@ importers:
   chapter06/example02:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -324,14 +324,14 @@ importers:
   chapter06/example03:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -361,14 +361,14 @@ importers:
   chapter06/example04:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -516,20 +516,20 @@ importers:
   chapter09/example01/packages/p1:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
 
   chapter09/example01/packages/p2:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
 
   chapter09/example02:
     devDependencies:
@@ -540,41 +540,41 @@ importers:
   chapter09/example02/packages/p1:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
 
   chapter09/example02/packages/p2:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
 
   chapter09/example03/packages/p1:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router:
         specifier: ~7.13.2
-        version: 7.13.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.2(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
 
   chapter09/example03/packages/p2:
     dependencies:
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
 
   chapter09/example04:
     devDependencies:
@@ -592,13 +592,13 @@ importers:
     dependencies:
       next:
         specifier: 16.2.3
-        version: 16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.98.0)
+        version: 16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(sass@1.98.0)
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       ui:
         specifier: ^0.2.4
         version: 0.2.4
@@ -632,13 +632,13 @@ importers:
     dependencies:
       next:
         specifier: 16.2.3
-        version: 16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.98.0)
+        version: 16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(sass@1.98.0)
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       ui:
         specifier: ^0.2.4
         version: 0.2.4
@@ -707,8 +707,8 @@ importers:
         specifier: ^0.0.0
         version: 0.0.0(eslint@10.1.0)(typescript@5.9.3)
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       tsconfig:
         specifier: ^7.0.0
         version: 7.0.0
@@ -722,11 +722,11 @@ importers:
         specifier: ^3.49.0
         version: 3.49.0
       react:
-        specifier: 19.2.4
-        version: 19.2.4
+        specifier: 19.2.6
+        version: 19.2.6
       react-dom:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       regenerator-runtime:
         specifier: 0.14.1
         version: 0.14.1
@@ -754,7 +754,7 @@ importers:
         version: 19.1.3
       '@nrwl/react':
         specifier: 19.8.4
-        version: 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
+        version: 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
       '@nrwl/web':
         specifier: 19.8.4
         version: 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(typescript@5.9.3)
@@ -763,7 +763,7 @@ importers:
         version: 19.8.4(@swc/core@1.15.18(@swc/helpers@0.5.21))
       '@testing-library/react':
         specifier: 16.3.2
-        version: 16.3.2(@testing-library/dom@10.4.1)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 16.3.2(@testing-library/dom@10.4.1)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       '@types/jest':
         specifier: 30.0.0
         version: 30.0.0
@@ -823,7 +823,7 @@ importers:
         version: 3.8.1
       react-test-renderer:
         specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       ts-jest:
         specifier: 29.4.6
         version: 29.4.6(@babel/core@7.29.0)(@jest/transform@30.3.0)(@jest/types@30.3.0)(babel-jest@30.3.0(@babel/core@7.29.0))(jest-util@30.3.0)(jest@30.3.0(@types/node@25.5.0)(ts-node@10.9.2(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(typescript@5.9.3)))(typescript@5.9.3)
@@ -867,14 +867,14 @@ importers:
   chapter11/example03:
     dependencies:
       react:
-        specifier: ^19.2.4
-        version: 19.2.4
+        specifier: ^19.2.6
+        version: 19.2.6
       react-dom:
         specifier: ^19.2.4
-        version: 19.2.4(react@19.2.4)
+        version: 19.2.4(react@19.2.6)
       react-router-dom:
         specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -9053,8 +9053,8 @@ packages:
     peerDependencies:
       react: ^19.2.4
 
-  react@19.2.4:
-    resolution: {integrity: sha512-9nfp2hYpCwOjAN+8TZFGhtWEwgvWHXqESH8qT89AT/lWklpLON22Lc8pEtnpsZz7VmawabSU0gCjnj8aC0euHQ==}
+  react@19.2.6:
+    resolution: {integrity: sha512-sfWGGfavi0xr8Pg0sVsyHMAOziVYKgPLNrS7ig+ivMNb3wbCBw3KxtflsGBAwD3gYQlE/AEZsTLgToRrSCjb0Q==}
     engines: {node: '>=0.10.0'}
 
   read-cmd-shim@4.0.0:
@@ -12628,13 +12628,13 @@ snapshots:
       '@types/semver': 7.5.8
       semver: 7.6.3
 
-  '@module-federation/data-prefetch@0.6.16(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@module-federation/data-prefetch@0.6.16(react-dom@19.2.4(react@19.2.6))(react@19.2.6)':
     dependencies:
       '@module-federation/runtime': 0.6.16
       '@module-federation/sdk': 0.6.16
       fs-extra: 9.1.0
-      react: 19.2.4
-      react-dom: 19.2.4(react@19.2.4)
+      react: 19.2.6
+      react-dom: 19.2.4(react@19.2.6)
 
   '@module-federation/dts-plugin@0.6.16(typescript@5.9.3)':
     dependencies:
@@ -12661,10 +12661,10 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@module-federation/enhanced@0.6.16(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
+  '@module-federation/enhanced@0.6.16(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
     dependencies:
       '@module-federation/bridge-react-webpack-plugin': 0.6.16
-      '@module-federation/data-prefetch': 0.6.16(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@module-federation/data-prefetch': 0.6.16(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       '@module-federation/dts-plugin': 0.6.16(typescript@5.9.3)
       '@module-federation/managers': 0.6.16
       '@module-federation/manifest': 0.6.16(typescript@5.9.3)
@@ -13142,9 +13142,9 @@ snapshots:
   '@nrwl/nx-win32-x64-msvc@15.9.3':
     optional: true
 
-  '@nrwl/react@19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
+  '@nrwl/react@19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
     dependencies:
-      '@nx/react': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
+      '@nx/react': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
     transitivePeerDependencies:
       - '@babel/traverse'
       - '@swc-node/register'
@@ -13514,10 +13514,10 @@ snapshots:
   '@nx/nx-win32-x64-msvc@22.6.1':
     optional: true
 
-  '@nx/react@19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
+  '@nx/react@19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))':
     dependencies:
-      '@module-federation/enhanced': 0.6.16(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
-      '@nrwl/react': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
+      '@module-federation/enhanced': 0.6.16(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
+      '@nrwl/react': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(typescript@5.9.3)(webpack@5.105.4(@swc/core@1.15.18(@swc/helpers@0.5.21)))
       '@nx/devkit': 19.8.4(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))
       '@nx/eslint': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(@zkochan/js-yaml@0.0.7)(eslint@10.1.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))
       '@nx/js': 19.8.4(@babel/traverse@7.29.0)(@swc/core@1.15.18(@swc/helpers@0.5.21))(@types/node@25.5.0)(nx@22.6.1(@swc/core@1.15.18(@swc/helpers@0.5.21)))(typescript@5.9.3)
@@ -14772,12 +14772,12 @@ snapshots:
       picocolors: 1.1.1
       pretty-format: 27.5.1
 
-  '@testing-library/react@16.3.2(@testing-library/dom@10.4.1)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@testing-library/react@16.3.2(@testing-library/dom@10.4.1)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.6))(react@19.2.6)':
     dependencies:
       '@babel/runtime': 7.29.2
       '@testing-library/dom': 10.4.1
-      react: 19.2.4
-      react-dom: 19.2.4(react@19.2.4)
+      react: 19.2.6
+      react-dom: 19.2.4(react@19.2.6)
     optionalDependencies:
       '@types/react': 19.2.14
       '@types/react-dom': 19.2.3(@types/react@19.2.14)
@@ -19973,16 +19973,16 @@ snapshots:
     dependencies:
       enhanced-resolve: 5.20.1
 
-  next@16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.98.0):
+  next@16.2.3(@babel/core@7.29.0)(@playwright/test@1.58.2)(react-dom@19.2.4(react@19.2.6))(react@19.2.6)(sass@1.98.0):
     dependencies:
       '@next/env': 16.2.3
       '@swc/helpers': 0.5.15
       baseline-browser-mapping: 2.10.18
       caniuse-lite: 1.0.30001787
       postcss: 8.4.31
-      react: 19.2.4
-      react-dom: 19.2.4(react@19.2.4)
-      styled-jsx: 5.1.6(@babel/core@7.29.0)(react@19.2.4)
+      react: 19.2.6
+      react-dom: 19.2.4(react@19.2.6)
+      styled-jsx: 5.1.6(@babel/core@7.29.0)(react@19.2.6)
     optionalDependencies:
       '@next/swc-darwin-arm64': 16.2.3
       '@next/swc-darwin-x64': 16.2.3
@@ -20926,9 +20926,9 @@ snapshots:
       iconv-lite: 0.4.24
       unpipe: 1.0.0
 
-  react-dom@19.2.4(react@19.2.4):
+  react-dom@19.2.4(react@19.2.6):
     dependencies:
-      react: 19.2.4
+      react: 19.2.6
       scheduler: 0.27.0
 
   react-is@16.13.1: {}
@@ -20941,35 +20941,35 @@ snapshots:
 
   react-refresh@0.16.0: {}
 
-  react-router-dom@7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  react-router-dom@7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
-      react: 19.2.4
-      react-dom: 19.2.4(react@19.2.4)
-      react-router: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react: 19.2.6
+      react-dom: 19.2.4(react@19.2.6)
+      react-router: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
 
-  react-router@7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  react-router@7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
       cookie: 1.1.1
-      react: 19.2.4
+      react: 19.2.6
       set-cookie-parser: 2.7.2
     optionalDependencies:
-      react-dom: 19.2.4(react@19.2.4)
+      react-dom: 19.2.4(react@19.2.6)
 
-  react-router@7.13.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  react-router@7.13.2(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
       cookie: 1.1.1
-      react: 19.2.4
+      react: 19.2.6
       set-cookie-parser: 2.7.2
     optionalDependencies:
-      react-dom: 19.2.4(react@19.2.4)
+      react-dom: 19.2.4(react@19.2.6)
 
-  react-test-renderer@19.2.4(react@19.2.4):
+  react-test-renderer@19.2.4(react@19.2.6):
     dependencies:
-      react: 19.2.4
+      react: 19.2.6
       react-is: 19.2.4
       scheduler: 0.27.0
 
-  react@19.2.4: {}
+  react@19.2.6: {}
 
   read-cmd-shim@4.0.0: {}
 
@@ -21841,10 +21841,10 @@ snapshots:
     dependencies:
       webpack: 5.105.4(webpack-cli@7.0.2)
 
-  styled-jsx@5.1.6(@babel/core@7.29.0)(react@19.2.4):
+  styled-jsx@5.1.6(@babel/core@7.29.0)(react@19.2.6):
     dependencies:
       client-only: 0.0.1
-      react: 19.2.4
+      react: 19.2.6
     optionalDependencies:
       '@babel/core': 7.29.0
 
