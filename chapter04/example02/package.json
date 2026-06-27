@@ -5,7 +5,7 @@
     "start": "babel-node index.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
+    "@babel/core": "^7.29.6",
     "@babel/node": "^7.29.0",
     "@babel/preset-flow": "^7.27.1",
     "@eslint/js": "^10.0.1",
