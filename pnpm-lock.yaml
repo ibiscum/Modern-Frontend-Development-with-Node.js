@@ -183,8 +183,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -214,8 +214,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -293,8 +293,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -330,8 +330,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -367,8 +367,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -873,8 +873,8 @@ importers:
         specifier: ^19.2.4
         version: 19.2.4(react@19.2.6)
       react-router-dom:
-        specifier: ^7.13.1
-        version: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+        specifier: ^7.18.1
+        version: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
       video.js:
         specifier: ^8.23.7
         version: 8.23.7
@@ -9225,15 +9225,15 @@ packages:
     resolution: {integrity: sha512-FPvF2XxTSikpJxcr+bHut2H4gJ17+18Uy20D5/F+SKzFap62R3cM5wH6b8WN3LyGSYeQilLEcJcR1fjBSI2S1A==}
     engines: {node: '>=0.10.0'}
 
-  react-router-dom@7.13.1:
-    resolution: {integrity: sha512-UJnV3Rxc5TgUPJt2KJpo1Jpy0OKQr0AjgbZzBFjaPJcFOb2Y8jA5H3LT8HUJAiRLlWrEXWHbF1Z4SCZaQjWDHw==}
+  react-router-dom@7.18.1:
+    resolution: {integrity: sha512-KaZh+X/6UtEp28x51AUYZDMg9NGoz2ja3dNHa+ta/tk40vCzKhQ/RypCWBMLbmDr6//E24Vv5uPsrqXFozdkAg==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
       react-dom: '>=18'
 
-  react-router@7.13.1:
-    resolution: {integrity: sha512-td+xP4X2/6BJvZoX6xw++A2DdEi++YypA69bJUV5oVvqf6/9/9nNlD70YO1e9d3MyamJEBQFEzk6mbfDYbqrSA==}
+  react-router@7.17.0:
+    resolution: {integrity: sha512-FDELK7rTMlCHO5+reyXsPlmfr7N1F91lPHsWYfMEGQm/KQ+F4JFM8jGoeQDmDvdTs93Fw9aSilH+uKRb4/jXvQ==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
@@ -9242,8 +9242,8 @@ packages:
       react-dom:
         optional: true
 
-  react-router@7.17.0:
-    resolution: {integrity: sha512-FDELK7rTMlCHO5+reyXsPlmfr7N1F91lPHsWYfMEGQm/KQ+F4JFM8jGoeQDmDvdTs93Fw9aSilH+uKRb4/jXvQ==}
+  react-router@7.18.1:
+    resolution: {integrity: sha512-GDLgg3i3uM0aeJO3Fm+TCS+sDQ7gu12T6x0qdTEzcwqEfleci7JwugVNIF3U//0FWKnJT7ptG+20B2jfDqnZAg==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
@@ -21477,13 +21477,13 @@ snapshots:
 
   react-refresh@0.16.0: {}
 
-  react-router-dom@7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
+  react-router-dom@7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
       react: 19.2.6
       react-dom: 19.2.4(react@19.2.6)
-      react-router: 7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
+      react-router: 7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6)
 
-  react-router@7.13.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
+  react-router@7.17.0(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
       cookie: 1.1.1
       react: 19.2.6
@@ -21491,7 +21491,7 @@ snapshots:
     optionalDependencies:
       react-dom: 19.2.4(react@19.2.6)
 
-  react-router@7.17.0(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
+  react-router@7.18.1(react-dom@19.2.4(react@19.2.6))(react@19.2.6):
     dependencies:
       cookie: 1.1.1
       react: 19.2.6
