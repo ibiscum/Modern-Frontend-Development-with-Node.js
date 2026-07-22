@@ -7,7 +7,7 @@
   "devDependencies": {
     "@babel/core": "^7.29.6",
     "@babel/node": "^7.29.0",
-    "@babel/preset-flow": "^7.27.1",
+    "@babel/preset-flow": "^8.0.1",
     "@eslint/js": "^10.0.1",
     "eslint": "^10.1.0",
     "flow-bin": "^0.306.0",
